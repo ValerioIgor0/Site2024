@@ -1,1 +1,18 @@
+/* Define o fundo com um degrade de duas cores */
+body {
+    background: linear-gradient(to bottom, #cor1, #cor2);
+    text-align: center; /* Centraliza todos os textos e imagens */
+}
 
+/* Estilo para todos os cabeçalhos h1 e h2 */
+h1, h2 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Nome da fonte', sans-serif; /* Escolha o estilo de fonte desejado */
+}
+
+/* Estilo para os links */
+a {
+    color: blue; /* Define a cor do link como azul */
+    text-decoration: none; /* Remove a linha sublinhada nos links */
+}
