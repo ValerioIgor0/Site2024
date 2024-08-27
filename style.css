@@ -3,6 +3,17 @@ body {
     background: linear-gradient(to bottom, #cor1, #cor2);
     text-align: center; /* Centraliza todos os textos e imagens */
 }
+  .impar {
+  font-size: 16pt;
+  font-family: Arial, sans-serif;
+  color: red;
+}
+
+.par {
+  font-size: 20pt;
+  font-family: Verdana, sans-serif;
+  color: blue;
+}
 
 /* Estilo para todos os cabeçalhos h1 e h2 */
 h1, h2 {
